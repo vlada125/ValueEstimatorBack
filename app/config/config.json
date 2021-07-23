@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "D27Otr4$!RSwa46xxiMLz6bd0^",
+    "database": "value-estimator",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": null,
+    "database": "value-estimator-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": true
+  },
+  "production": {
+    "username": "postgres",
+    "password": "D27Otr4$!RSwa46xxiMLz6bd0^",
+    "database": "value-estimator",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
